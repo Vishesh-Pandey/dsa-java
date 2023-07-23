@@ -6,8 +6,8 @@ This project contains Java implementations of various data structures and algori
 
 * Collections
     * List
-        * [Arraylist.java](src/data_structures/collections/list/Arraylist.java)
-        * [Linkedlist.java](src/data_structures/collections/list/LinkedList.java)
+        * [ArrayList.java](src/data_structures/collections/list/ArrayList.java)
+        * [LinkedList.java](src/data_structures/collections/list/LinkedList.java)
         * [Vector.java](src/data_structures/collections/list/Vector.java)
         * [Stack.java](src/data_structures/collections/list/Stack.java)
     * Set
