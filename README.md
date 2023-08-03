@@ -12,17 +12,18 @@ This project contains Java implementations of various data structures and algori
         * [Stack.java](src/data_structures/collections/list/Stack.java)
     * Set
         * [HashSet.java](src/data_structures/collections/set/HashSet.java)
-        * [Linkedhashset.java](src/data_structures/collections/set/Linkedhashset.java)
-        * [Treeset.java](src/data_structures/collections/set/Treeset.java)
+        * Linkedhashset.java
+        * Treeset.java
     * Queue
         * [PriorityQueue.java](src/data_structures/collections/queue/PriorityQueue.java)
-        * [LinkedList.java](src/data_structures/collections/queue/LinkedList.java)
-        * [Deque.java](src/data_structures/collections/queue/Deque.java)
+        * LinkedList.java
+        * Deque.java
 * Trees
     * [GenericTree.java](src/data_structures/trees/GenericTree.java)
     * [BinaryTree.java](src/data_structures/trees/BinaryTree.java)
     * [BinarySearchTree.java](src/data_structures/trees/BinarySearchTree.java)
 * Graphs
+    * [Graph.java](src/data_structures/graphs/Graph.java)
 
 ## Algorithms
 
