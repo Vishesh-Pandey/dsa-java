@@ -35,8 +35,8 @@ This project contains Java implementations of various data structures and algori
     * [SelectionSort.java](src/algorithms/sort/SelectionSort.java)
     * [InsertionSort.java](src/algorithms/sort/InsertionSort.java)
 * Non-comparison-based sorting
-    * [CountSort.java](src/algorithms/divide_and_conquer/CountSort.java)
-    * [RadixSort.java](src/algorithms/divide_and_conquer/RadixSort.java)
+    * [CountSort.java](src/algorithms/sort/CountSort.java)
+    * [RadixSort.java](src/algorithms/sort/RadixSort.java)
 * Divide and Conquer
     * [MergeSort.java](src/algorithms/divide_and_conquer/MergeSort.java)
     * [QuickSort.java](src/algorithms/divide_and_conquer/QuickSort.java)
